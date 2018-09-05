@@ -3,6 +3,6 @@ class WelcomeController < ApplicationController
   def home
   end
 
-  def about 
+  def about
   end
 end
